@@ -5,3 +5,4 @@ VanillaDLC - The best free DLC.
 !Version
 
  VanillaDLC - это мощный и функциональный чит-клиент для Minecraft, который добавляет множество возможностей для улучшения игрового процесса.
+dw - t.me/vanilladlc.
